@@ -85,7 +85,7 @@ Create a `.env` file in the project root:
 
 ```env
 PORT=5000
-DATABASE_URL=postgresql://neondb_owner:npg_ANy6CSn8DQiX@ep-lucky-morning-b4c2axgf-pooler.c-6.us-east-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+DATABASE_URL=******
 JWT_SECRET=healthcare_super_secret_key
 ```
 
